@@ -2,7 +2,7 @@
 
 This is an open-source firefighting robot system that combines embedded systems, wireless communication, IoT, and robotics. The robot is capable of detecting fire, gas leaks, and hazardous environments while sending real-time video feedback. It also includes a 5-DOF robotic arm for pick-and-place tasks and a custom-built wireless controller.
 <p align="center">
-  <img src="DOCS/image/robot-pic-1.jpg" alt="Pinout" width="800" height="300">
+  <img src="DOCS/Image/robot-pic-1.jpg" alt="Pinout" width="800" height="300">
 </p>
 ---
 
