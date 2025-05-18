@@ -5,7 +5,7 @@
 </head>
 <body>
   <h2>📹 Demo Video</h2>
-  <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fshare%2Fv%2F1G7Pu5FVEB%2F&show_text=false&width=500" 
+  <iframe src="https://www.facebook.com/share/v/1G7Pu5FVEB/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fshare%2Fv%2F1G7Pu5FVEB%2F&show_text=false&width=500" 
           width="500" height="280" style="border:none;overflow:hidden" 
           scrolling="no" frameborder="0" allowfullscreen="true" 
           allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share">
