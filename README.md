@@ -4,6 +4,14 @@ This is an open-source firefighting robot system that combines embedded systems,
 <p align="center">
   <img src="DOCS/Image/robot-pic-1.jpg" alt="Pinout" width="500" height="300">
 </p>
+
+<p align="center">
+  <video width="450" controls>
+    <source src="DOCS/Video/demo-1.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</p>
+
 ---
 
 ## 📦 Project Overview
