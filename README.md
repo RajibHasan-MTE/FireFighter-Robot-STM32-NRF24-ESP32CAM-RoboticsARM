@@ -1,3 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>W25Q64FV Flash Memory Demo</title>
+</head>
+<body>
+  <h2>📹 Demo Video</h2>
+  <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fshare%2Fv%2F1G7Pu5FVEB%2F&show_text=false&width=500" 
+          width="500" height="280" style="border:none;overflow:hidden" 
+          scrolling="no" frameborder="0" allowfullscreen="true" 
+          allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share">
+  </iframe>
+</body>
+</html>
+
+
 # 🚒 FireFighter Robot with STM32, NRF24L01, ESP32-CAM
 
 This is an open-source firefighting robot system that combines embedded systems, wireless communication, IoT, and robotics. The robot is capable of detecting fire, gas leaks, and hazardous environments while sending real-time video feedback. It also includes a 5-DOF robotic arm for pick-and-place tasks and a custom-built wireless controller.
