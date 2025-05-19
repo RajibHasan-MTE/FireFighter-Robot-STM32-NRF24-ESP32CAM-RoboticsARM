@@ -52,7 +52,7 @@
         <li>Dedicated switches (Mode/Arm/Light/Fire)</li>
       </ul>
     </li>
-    <li><strong>Custom PCB Design:</strong> Designed using Altium/EasyEDA</li>
+    <li><strong>Custom PCB Design:</strong> Designed using Altium</li>
   </ul>
 
   <hr>
@@ -81,7 +81,7 @@
       <tr><td>NRF24L01</td><td>2</td><td>Wireless communication</td></tr>
       <tr><td>ESP32-CAM</td><td>1</td><td>Video streaming</td></tr>
       <tr><td>Flame Sensor</td><td>1</td><td>Fire detection</td></tr>
-      <tr><td>MQ Gas Sensor</td><td>1</td><td>Gas detection</td></tr>
+      <tr><td>MQ-2 Gas Sensor</td><td>1</td><td>Gas detection</td></tr>
       <tr><td>Oxygen Sensor</td><td>1</td><td>Environmental monitoring</td></tr>
       <tr><td>800RPM Gear Motor</td><td>2+</td><td>Locomotion</td></tr>
       <tr><td>Servo Motors (SG90/MG996R)</td><td>5</td><td>Robotic arm</td></tr>
@@ -97,6 +97,6 @@
 
   <h2>🔧 Software Tools Used</h2>
   <ul>
-    <li>STM32CubeMX / STM32CubeIDE</li>
+    <li>STM32CubeMX+STM32CubeIDE+Keil uVision</li>
     <li>Keil uVision</li>
     <li>Arduino IDE (for
